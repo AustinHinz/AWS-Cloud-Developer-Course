@@ -1,7 +1,13 @@
 Vocab
 AWS Regions - Cluster of data centers
 Compliance - Data governance and legal requirements, data never leaves with explicit permision
-Proximity- To customers, closer = reduced latency
+Proximity- To customers, closer = reduced latency 
+Available Services - New features aren't available in every region
+Pricing- Varies in region, must be transparent
+Availability Zones - max of 6, min 2
+
+SERVICES:
+IAM - Identify and Access management, Global service
 
 Information:
 AWS allows us to build scalable applications

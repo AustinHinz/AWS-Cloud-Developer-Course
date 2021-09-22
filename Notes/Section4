@@ -1,0 +1,15 @@
+IAM - Password Policy
+    Have users make strong passwords
+    Use Multifactor Authentication
+    1 - Virtual MFA Device - Google Aauthenticator or Authy
+    2 - Universal 2nd Factor (U2f) Security Key - YubiKey
+    3 - Hardware Key Fob MFA Device - Gemalto 
+    4 - Hardware Key Fob MFA Device for AWS GovCloud - SurePassID
+
+IAM - Roles for Services
+    Help with assigning permissions
+
+IAM - Security Tools 
+    Credentials Report (account-level) - lists all your account's users and status 
+    Access Advisor (user-level) - Access advisor shows the service permissions
+    
